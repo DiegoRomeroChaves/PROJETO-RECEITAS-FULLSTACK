@@ -17,9 +17,9 @@ body {
 #page {
     width: 800px;
     padding: 24px;
-    background-color: #e9e59b;
+    background-color: #F0E8c2;
     border-radius: 24px;
-    margin: 48px auto;
+    margin: 48px auto 28px;
     box-sizing: border-box;
 }
 #about p + p {
@@ -46,4 +46,12 @@ h1 , h2 {
 }
 ul{
     padding-left: 24px;
+}
+footer {
+    color: #3b3a35;
+    text-align: center;
+    padding-bottom: 48px ;
+}
+footer img {
+    vertical-align:middle ;
 }
